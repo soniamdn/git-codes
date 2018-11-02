@@ -80,7 +80,7 @@ La fonction `$ git rester --hard`permet de revenir au commit précédent, en eff
 
 On peut faire ceci avec : `$ git reset --hard 45581cebdd2cae494f80f44010af9e4a86c9b8fa`, avec 45581c le SHA sur lequel tu veux revenir. 
 
-### **II.5. Pour aller plus loin**
+### **II.5. Pour aller plus loin** :airplane:
 
 Au vu des apologies que l'on lui donne, le [cours de OpenClassrooms](https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github) sur Git est un très bon point pour aller plus loin. Il explique notamment la notion de branches et de fusions.
 
