@@ -1,4 +1,5 @@
 # II - Cours sur le GIT
+
 -
 
 ### **II.1. Introduction**
@@ -27,7 +28,7 @@ Avant de pouvoir se servir de Git, il faut l'installer. Cela tombe bien, il y a 
 
 ##### II.3.2. Première introduction à Git
 
-J'ai fait une petite vidéo d'introduction à Git, que tu pourras retrouver ci-bas : [THP - Git / GitHub](https://www.youtube.com/watch?time_continue=5&v=ggaMadCKjko) <iframe width="966" height="543" src="https://www.youtube.com/embed/ggaMadCKjko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+J'ai fait une petite vidéo d'introduction à Git, que tu pourras retrouver ci-bas : [THP - Git / GitHub](https://www.youtube.com/watch?time_continue=5&v=ggaMadCKjko)<iframe width="966" height="543" src="https://www.youtube.com/embed/ggaMadCKjko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Ensuite, tu peux suivre le cours de Marc Gauthier jusqu'à la partie [Récupérez des modifications.](https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github/2433686-recuperez-des-modifications) Nous verrons dans la formation THP comment faire les branches et autres joyeusetés :smile:
