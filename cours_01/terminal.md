@@ -35,7 +35,7 @@ Sur Linux : `CTRL` + `ALT` + `T`
 
 Sur macOS : `CMD` + `SPACE`, puis écrire `Terminal`(ou iTerm), Enter. 
 
-#### ALERTE BONNE ASTUCE
+#### ALERTE BONNE ASTUCE :hatching_chick:
 
 Si tu utilises Linux, passe ton terminal en anglais. Quand ce dernier te renverra une erreur, c'est bien mieux qu'elle soit en anglais. L'anglais et la langue d'internet, donc la majorité des gens qui ont eu ton problème vont le poster en anglais. Et ainsi tu auras 100 fois plus de résultats sur Google que si tu postais ton erreur en français.
 
