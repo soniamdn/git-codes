@@ -62,7 +62,7 @@ Imaginons que veut vérifier un truc sur un vieux commit. On va utiliser la comm
 * `$ git checkout 45581cebdd2cae494f80f44010af9e4a86c9b8fa`: on dit à git de se positionner sur ce sha précis.
 * `$ git checkout master`: une fois que l'on a fini de se balader, il faut revenir à la version présente de notre repository avec cette commande
 
-### ALERTE ERREUR COMMUNE
+### ALERTE ERREUR COMMUNE :bangbang:
 
 `$ git checkout`ne marche que si tu n'as pas de modification non sauvegardée. Si tu es entre deux commits, git checkout ne marchera pas. Du coup il te faudra soit faire une sauvegarde (== faire un commit), soit effacer tout pour revenir au commit d'avant.
 
