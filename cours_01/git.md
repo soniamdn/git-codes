@@ -77,7 +77,7 @@ La fonction `$ git rester --hard`permet de revenir au commit précédent, en eff
 
 ##### II.4.4.2. Tout effacer et revenir à un ancien commit
 
-On peut faire ceci avec : `$ git reset --hard 45581cebdd2cae494f80f44010af9e4a86c9b8fa`, avec 45581c le SHA sur lequel tu veux revenir.
+On peut faire ceci avec : `$ git reset --hard 45581cebdd2cae494f80f44010af9e4a86c9b8fa`, avec 45581c le SHA sur lequel tu veux revenir. 
 
 ### **II.5. Pour aller plus loin**
 
