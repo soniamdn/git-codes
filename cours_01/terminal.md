@@ -6,7 +6,7 @@ Dans cette ressource, tu vas découvrir les bases du terminal, un outil très pu
 
 #### I.1.1. Ce que tu va apprendre dans cette ressource
 
-Voici la liste des questions auxquelles tu vas pouvoir répondre avec cette ressource :
+Voici la liste des questions auxquelles tu vas pouvoir répondre avec cette ressource:
 
 * Qu'est-ce que le terminal ?
 * Que veut dire GUI et CLI ?
