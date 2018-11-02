@@ -40,7 +40,7 @@ Je t'invite donc à créer un repository GitHub, puis le lier à un dossier de t
 
 #### *-* Qui a contribué à ce cours?
 
-Nous sommes deux personnes à avoir contribué à ce cours. Nous avons travailler sur un ordinateur, nous nous sommes vue plusieurs fois afin de finir le projet à temps.
+Nous sommes deux personnes à avoir contribué à ce cours. Nous avons travaillé sur un seul ordinateur, nous nous sommes vue plusieurs fois afin de finir le projet à temps.
 > El Karch Chaïma
 > 
 > Madoni Sonia
